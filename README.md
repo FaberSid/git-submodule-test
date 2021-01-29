@@ -24,7 +24,7 @@ Submodule References:
 #### Github:
 Sub module added:
 
-![Sub module appearance](https://i.imgur.com/1cpY4zE.png)
+![Sub module appearance](./images/submodule-in-github-appearance.png)
 
 Even though it looks a bit weird it is still accessible
 
