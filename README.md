@@ -14,9 +14,9 @@ Submodule References:
 
 - `git init` a new repo or use github to create a new repo
 - `cd` into new repo
-- get the url for the repo you'd like to make into a submodule, in our case the git branching and merging lesson `hfb` - `https://git.generalassemb.ly/Web-Development-Immersive-Remote/hfb.git`
+- get the url for the repo you'd like to make into a submodule, in our case just a test module  - `https://github.com/Krafalski/submodule-example`
 - in the new repo
-    - `git submodule add https://git.generalassemb.ly/Web-Development-Immersive-Remote/hfb.git`
+    - `git submodule add https://github.com/Krafalski/submodule-example`
     - `git commit -am 'added hfb'`
     - `git push origin master`
 
